@@ -37,7 +37,7 @@
 			<Text>隣接ボーナスとして+{1_num} [ICON_SCIENCE]。</Text>
 		</Replace>
 		<Row Tag="LOC_DISTRICT_MINE_SCIENCE" Language="en_US">
-			<Text>隣接ボーナスとして改善された２つの鉱山につき+{1_num} [ICON_SCIENCE]科学力（要訂正）</Text>
+			<Text>隣接ボーナスとして改善された2つの鉱山につき+{1_num} [ICON_SCIENCE]科学力（要訂正）</Text>
 		</Row>
 		<!-- Mapuche -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION" Language="en_US">
@@ -61,15 +61,15 @@
 		</Replace>
 		<!-- Apadana Wonder -->
 		<Replace Tag="LOC_BUILDING_APADANA_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_ENVOY] Envoy when you build a wonder, including Apadana, in this city.[NEWLINE][NEWLINE]Must be built adjacent to your [ICON_CAPITAL] Capital.</Text>
+			<Text>この都市に遺産(アパダーナを含む)を建設すると、[ICON_ENVOY] 代表団を1つ得る。首都に隣接した土地にのみ建設可能。</Text>
 		</Replace>
 		<!-- Mausoleum at Halicarnassus -->
 		<Replace Tag="LOC_BUILDING_HALICARNASSUS_MAUSOLEUM_DESCRIPTION" Language="en_US">
-			<Text>Grants a free [ICON_GREATADMIRAL] Great Admiral when the wonder is constructed.[NEWLINE][NEWLINE]All [ICON_GREATADMIRAL] Great Admirals and all [ICON_GREATGENERAL] Great Generals can use their retirement ability an additional time. Must be built adjacent to a Harbor district.</Text>
+			<Text>遺産を建設すると[ICON_GREATADMIRAL] 大提督1人を無償で獲得する。[NEWLINE][NEWLINE]すべての[ICON_GREATGENERAL]大将軍と[ICON_GREATADMIRAL] 大提督は退職能力を追加使用できるようになる。港区域に隣接した土地にのみ建設可能</Text>
 		</Replace>
 		<!-- Venetian Arsenal -->
 		<Replace Tag="LOC_BUILDING_VENETIAN_ARSENAL_DESCRIPTION" Language="en_US">
-			<Text>+50% [ICON_Production] Production towards naval units in all cities. Must be built on a Coast tile that is adjacent to an Industrial Zone district.</Text>
+			<Text>すべての海洋ユニットの[ICON_Production]生産+50%。工業地帯区域に隣接した沿岸タイルにのみ建設可能。</Text>
 		</Replace>
 		<!-- NEW -->
 		<Replace Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION" Language="en_US">
