@@ -57,7 +57,7 @@
 		</Replace>
 		<!-- Zulu -->
 		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="en_US">
-			<Text>May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 [ICON_STRENGTH] Base Combat Strength to both Corps and Armies at Mobilization Civic.</Text>
+			<Text>軍団（傭兵）と大軍団（ナショナリズム）を早期に作ることが出来る。社会制度の戦時動員で軍団と大軍団に戦闘力[ICON_STRENGTH]+5。</Text>
 		</Replace>
 		<!-- Apadana Wonder -->
 		<Replace Tag="LOC_BUILDING_APADANA_DESCRIPTION" Language="en_US">
@@ -73,37 +73,37 @@
 		</Replace>
 		<!-- NEW -->
 		<Replace Tag="LOC_BELIEF_LAY_MINISTRY_DESCRIPTION" Language="en_US">
-			<Text>Each Holy Site or Theater Square district in a city following this Religion provides +2 [ICON_Faith] Faith or +2 [ICON_Culture] Culture respectively.</Text>
+			<Text>聖地と劇場区域では、それぞれ [ICON_Faith]+2、[ICON_Culture]+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_ITINERANT_PREACHERS_DESCRIPTION" Language="en_US">
-			<Text>Religion spreads to cities 40% further away.</Text>
+			<Text>この宗教の伝播距離が40%増加する。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_CROSS_CULTURAL_DIALOGUE_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_Science] Science for every 3 followers of this Religion in other civilizations.</Text>
+			<Text>他の文明にいるこの宗教の信者3人ごとに科学力 [ICON_Science]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_ZEN_MEDITATION_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_Amenities] Amenity in cities with a specialty district.</Text>
+			<Text>専門区域を持つ都市の快適性[ICON_Amenities]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_RELIGIOUS_COMMUNITY_DESCRIPTION" Language="en_US">
-			<Text>Holy Site Districts, Shrines, and Temples each provide +1 [ICON_Housing] Housing.</Text>
+			<Text>聖地区域及び社と神殿1つごとに住宅[ICON_Housing]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_TITHE_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_Gold] Gold for every 3 followers of this Religion.</Text>
+			<Text>この宗教の信者3人につきゴールド[ICON_Gold]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_WORLD_CHURCH_DESCRIPTION" Language="en_US">
-			<Text>+1 [ICON_Culture] Culture for every 3 followers of this Religion in other civilizations.</Text>
+			<Text>他の文明にいるこの宗教の信者3人ごとに文化力+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_MONUMENT_TO_THE_GODS_DESCRIPTION" Language="en_US">
-			<Text>+15% [ICON_Production] Production towards wonders.</Text>
+			<Text>遺産に対する生産力+15%。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME" Language="en_US">
-			<Text>True Believer</Text>
+			<Text>真の信者</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION" Language="en_US">
-			<Text>The worship building for their Religion can be purchased by any player for just one-tenth of the usual [ICON_Faith] Faith cost. It adds 20% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture to the city's output.</Text>
+			<Text>すべてのプレイヤーは自分が創始する宗教の崇拝の建物を通常の10分の1の信仰力[ICON_Faith] で購入できる。またこの建物のあるアラブの都市が生み出す科学力[ICON_Science]、信仰力[ICON_Faith] 、文化力[ICON_Culture]が+20%される。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_PRASAT_DESCRIPTION" Language="en_US">
-			<Text>A building unique to Khmer that replace the Temple. Grants a free Missionary when built (if a Religion has been founded). Missionaries purchased in this city receive the Martyr ability, which grants a [ICON_GreatWork_Relic] Relic if this Missionary dies in Theological Combat. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith.</Text>
+			<Text>神殿にとって代わるノルウェー固有の建造物。使徒、審問官の訓練に必要。この都市の各資源から信仰力[ICON_FAITH]+1。都市圏内の海産資源から生産力[ICON_PRODUCTION]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION" Language="en_US">
 			<Text>Khmer unique Classical Era Siege unit that replaces the Catapult and is stronger than the Catapult, both offensively and defensively. Domreys can shoot in the same turn that they move and also exert zone of control.</Text>
@@ -115,7 +115,7 @@
 			<Text>A building unique to Norway that replaces the Temple. +1 [ICON_FAITH] to each resource tile in this city.  +1 [ICON_PRODUCTION] Production to each coastal resource tile in this city. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith.</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_PANTANAL_DESCRIPTION" Language="en_US"> 
-			<Text>Four tile natural wonder. It appears as Marsh and provides +2 [ICON_Food] Food, +2 [ICON_Culture] Culture, and +2 [ICON_Science] Science.</Text>
+			<Text>4タイルの自然遺産。食料[ICON_Food]+2、文化力[ICON_Culture] +2、科学力[ICON_Science]+2。</Text>
 		</Replace>
 		<!-- Modified from "New" section -->
 		<!-- Rome -->
