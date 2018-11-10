@@ -1,59 +1,59 @@
 	<LocalizedText>
 		<!-- Crusader Religion -->
 		<Replace Tag="LOC_BELIEF_JUST_WAR_DESCRIPTION" Language="en_US">
-			<Text>Combat units gain +7 [ICON_Strength] Combat Strength near foreign cities that follow this Religion.</Text>
+			<Text>軍事ユニットはこの宗教を信仰している他文明の近くで戦闘力[ICON_Strength]+7 を得る。</Text>
 		</Replace>
 		<!-- Defender of the Faith Religion -->
 		<Replace Tag="LOC_BELIEF_DEFENDER_OF_FAITH_DESCRIPTION" Language="en_US">
-			<Text>Combat units gain +4 [ICON_Strength] Combat Strength when within the borders of friendly cities that follow this Religion.</Text>
+			<Text>戦闘ユニットはこの宗教を信仰している自文明の国境内で+4 [ICON_Strength]戦闘力を得る。</Text>
 		</Replace>
 		<!-- God of the Forge Pantheon -->
 		<Replace Tag="LOC_BELIEF_GOD_OF_THE_FORGE_DESCRIPTION" Language="en_US">
-			<Text>+15% [ICON_Production] Production toward Ancient and Classical military units.</Text>
+			<Text>太古と古典の軍事ユニットの生産力+15％[ICON_Production]。</Text>
 		</Replace>
 		<!-- Goddess of the Harvest Pantheon -->
 		<Replace Tag="LOC_BELIEF_GODDESS_OF_THE_HARVEST_DESCRIPTION" Language="en_US">
-			<Text>Harvesting a resource or removing a feature receives [ICON_Faith] Faith equal to 75% of the other yield's quantity.</Text>
+			<Text>資源を収穫するかその特徴を取り除くと、ほかの収穫と同じ量の信仰力[ICON_Faith] の75％を得る。</Text>
 		</Replace>
 		<!-- Australia -->
 		<Replace Tag="LOC_TRAIT_LEADER_CITADEL_CIVILIZATION_DESCRIPTION" Language="en_US">
-			<Text>+50% [ICON_Production] Production for 10 turns after liberating a city.</Text>
+			<Text>都市を解放した後の10ターンの生産力に[ICON_Production]+50％。</Text>
 		</Replace>
 		<!-- Germany -->
 		<Replace Tag="LOC_DISTRICT_HANSA_DESCRIPTION" Language="en_US">
-			<Text>A district unique to Germany for industrial activity. Replaces the Industrial Zone district and cheaper to build.[NEWLINE][NEWLINE]+ 2[ICON_Production] Production bonus if adjacent to a Commercial Hub district. +1 [ICON_Production] Production bonus for every two adjacent resources. +1 [ICON_Production] Production bonus for every two adjacent district tiles.</Text>
+			<Text>工業地帯にとって代わるドイツ固有の区域。[NEWLINE][NEWLINE]商業ハブに隣接していると生産力[ICON_Production]+2。隣接する2つの資源ごとの生産力 [ICON_Production]+1。隣接する2つの区域ごとに生産力[ICON_Production]+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY" Language="en_US">
-			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub district. Minor [ICON_Production] Production bonus for adjacent resources and district tiles.</Text>
+			<Text>隣接：メジャー[ICON_Production] 商業ハブに隣接している場合は、生産力ボーナス。マイナー[ICON_Production]隣接する資源、及び区域の生産力ボーナス。</Text>
 		</Replace>
 		<!-- Korea -->
 		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION" Language="en_US">
-			<Text>A district unique to Korea that replaces the Campus district and must be built on hills. +2 [ICON_SCIENCE] Science base adjacency.</Text>
+			<Text>キャンパスに代わる韓国固有の区域。丘陵にのみ建設可能。基礎隣接ボーナスとして科学力+2 [ICON_SCIENCE]。</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY" Language="en_US">
-			<Text>Adjacency: +1 [ICON_SCIENCE] Science for every 2 adjacent mines. -1 [ICON_SCIENCE] Science for each adjacent District.</Text>
+			<Text>隣接：隣接する2つの鉱山ごとに科学力 [ICON_SCIENCE]+1。 隣接する各区域ごとに科学 [ICON_SCIENCE]-1。</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_BASE_DISTRICT_SCIENCE" Language="en_US">
-			<Text>+{1_num} [ICON_SCIENCE] Science base adjacency.</Text>
+			<Text>隣接ボーナスとして+{1_num} [ICON_SCIENCE]。</Text>
 		</Replace>
 		<Row Tag="LOC_DISTRICT_MINE_SCIENCE" Language="en_US">
-			<Text>+{1_num} [ICON_SCIENCE] Science adjacency from the adjacent {1_Num : plural 1?Mines; other?Mines;}.</Text>
+			<Text>隣接ボーナスとして改善された２つの鉱山につき+{1_num} [ICON_SCIENCE]科学力（要訂正）</Text>
 		</Row>
 		<!-- Mapuche -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION" Language="en_US">
-			<Text>All units trained in cities with an established [ICON_Governor] Governor gain 25% more experience in combat. +5 [ICON_Strength] Combat Strength bonus against civilizations that are in a Golden Age.</Text>
+			<Text>総督 [ICON_Governor]が着任した都市で訓練されたすべてのユニットについて、戦闘で得る経験値+25%黄金時代に入っている文明に対する戦闘力[ICON_Strength]+5。</Text>
 		</Replace>
 		<!-- Nubia -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION" Language="en_US">
-			<Text>+25% [ICON_Production] Production toward Ranged units. All Ranged units gain +25% combat experience. Mines over strategic resources provide +1 [ICON_Production] Production. Mines over bonus and luxury resources provide +2 [ICON_Gold] Gold.</Text>
+			<Text>長距離戦闘ユニットの生産力[ICON_Production]+25%。すべての長距離戦闘ユニットは戦闘経験値+25%。戦略資源の鉱山の生産力[ICON_Production]+1。ボーナス資源と高級資源の鉱山のゴールド [ICON_Gold] +2。</Text>
 		</Replace>
 		<!-- Persia -->
 		<Replace Tag="LOC_TRAIT_LEADER_FALL_BABYLON_EXPANSION1_DESCRIPTION" Language="en_US">
-			<Text>+5 Loyalty per turn in occupied cities with a garrisoned unit. Declaring a Surprise War counts as a Formal War for the purpose of warmongering and war weariness.</Text>
+			<Text>守備隊の占領した都市でのターンごとの忠誠度+5。奇襲戦争を宣言しても戦争による疲労と好戦性ペナルティが増加しない（正式に宣戦布告した場合と同等）</Text>
 		</Replace>
 		<!-- Russia -->
 		<Replace Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION" Language="en_US">
-			<Text>Russian unique Industrial era unit that replaces Cavalry. +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
+			<Text>騎兵にとって代わる、ロシア固有の産業時代のユニット。自分の領土に隣接しているタイルでの戦闘で戦闘力+5。移動ポイントが残っている場合は、攻撃後に移動することもできる。</Text>
 		</Replace>
 		<!-- Zulu -->
 		<Replace Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION" Language="en_US">
