@@ -2094,23 +2094,25 @@
 			<Text>Chinese unique unit that replaces the Crossbowman. +7 [ICON_Ranged] Ranged Strength when attacking adjacent enemy units.</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_TIGER_ADJACENCY_NAME" Language="ja_JP">
-			<Text>Cannonball!</Text>
+			<Text>キャノンボール！</Text>
 		</Row>
 		<Row Tag="LOC_ABILITY_TIGER_ADJACENCY_DESCRIPTION" Language="ja_JP">
-			<Text>+7 [ICON_Strength] Combat Strength when attacking adjacent enemy units.</Text>
+			<Text>攻撃時に [ICON_Strength] 戦闘力+7。</Text>
 		</Row>
 		<Replace Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION" Language="ja_JP">
-			<Text>Unlocks the Builder ability to construct the Great Wall, unique to China.[NEWLINE][NEWLINE]Provides an increase to [ICON_Strength] Defense, +1 [ICON_PRODUCTION] Production, and +1 [ICON_Gold] Gold. +1 [ICON_Culture] Culture after researching Castles. Gold and Culture yields are doubled if there is an adjacent Great Wall Improvement. Additional [ICON_Tourism] Tourism as you advance through the Technology Tree. Must be built in a line along the borders of your empire.</Text>
+			<Text>労働者が中国固有の施設である長城を建設できるようになる。[NEWLINE]
+			[NEWLINE][ICON_Strength] 防御力が上昇。長城を隣接させた場合、[ICON_PRODUCTION] 生産力+1と [ICON_Gold] ゴールド+1。 城の技術解禁後 [ICON_Culture] 文化力+1。隣接する長城がある場合、[ICON_Gold] ゴールドと [ICON_Culture] 文化力の産出量が倍になる。技術ツリーの進展にともなって [ICON_Tourism] 観光力のボーナスが発生する。国境沿いにのみ建設可能。</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_CHATEAU_DESCRIPTION" Language="ja_JP">
-			<Text>Unlocks the Builder ability to construct a Chateau, unique to France.[NEWLINE][NEWLINE]+2 [ICON_Culture] Culture and +1 Appeal. +1 [ICON_Culture] Culture for each adjacent Wonder. +1 [ICON_Gold] Gold and +1 [ICON_Food] Food for each adjacent Luxury resource. Can only be built adjacent to Rivers.</Text>
+			<Text>労働者がフランス固有の施設であるシャトーを建設できるようになる。[NEWLINE]
+			[NEWLINE][ICON_Culture] 文化力+2とアピール+1。隣接する遺産1つにつき [ICON_Culture] 文化力+1。隣接する高級資源1つにつき [ICON_Gold] ゴールド+1と [ICON_Food] 食料+1。川に隣接した場所にのみ建設可能。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION" Language="ja_JP">
-			<Text>Norwegian unique Medieval era unit. +2 [ICON_Movement] Movement if this unit starts in enemy territory. +15 [ICON_Strength] Combat Strength when attacking.</Text>
-		</Replace>		
+			<Text>ノルウェー固有の中世ユニット。敵の領地で移動を開始した場合は [ICON_Movement] 移動力+2。攻撃時に [ICON_Strength] 戦闘力+15。</Text>
+		</Replace>
 		<Replace Tag="LOC_ABILITY_BERSERKER_RAGE_DESCRIPTION" Language="ja_JP">
-			<Text>+15 [ICON_Strength] Combat Strength when attacking.</Text>
-		</Replace>	
+			<Text>攻撃時に [ICON_Strength] 戦闘力+15。</Text>
+		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION" Language="ja_JP">
 			<Text>
 			Unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE]
@@ -2120,22 +2122,22 @@
 			</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION" Language="ja_JP">
-			<Text>+1 [ICON_Food] Food and +2 [ICON_FAITH] Faith from Camps.</Text>
-		</Replace>		
+			<Text>キャンプによって [ICON_Food] 食料+1と [ICON_Faith] 信仰力+2。</Text>
+		</Replace
 		<Replace Tag="LOC_BELIEF_STONE_CIRCLES_DESCRIPTION" Language="ja_JP">
-			<Text>+3 [ICON_Faith] Faith from Quarries.</Text>
-		</Replace>		
+			<Text>採石場による [ICON_Faith] 信仰力+3。</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_RELIGIOUS_IDOLS_DESCRIPTION" Language="ja_JP">
-			<Text>+3 [ICON_Faith] Faith from Mines over Luxury and Bonus resources.</Text>
-		</Replace>		
+			<Text>高級資源とボーナス資源を扱う鉱山による [ICON_Faith] 信仰力+3。</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_GOD_OF_CRAFTSMEN_DESCRIPTION" Language="ja_JP">
-			<Text>+2 [ICON_Production] Production from Mines over Strategic resources.</Text>
-		</Replace>		
+			<Text>戦略資源を扱う鉱山による [ICON_Production] 生産力+2。</Text>
+		</Replace>
 		<Replace Tag="LOC_BELIEF_GODDESS_OF_FESTIVALS_DESCRIPTION" Language="ja_JP">
-			<Text>+1 [ICON_Food] Food and +1 [ICON_Faith] Faith from [ICON_RESOURCE_WINE] Wine, [ICON_RESOURCE_INCENSE] Incense, [ICON_RESOURCE_COCOA] Cocoa, [ICON_RESOURCE_TOBACCO] Tobacco, [ICON_RESOURCE_OLIVES] Olives,  [ICON_RESOURCE_COFFEE] Coffee, and [ICON_RESOURCE_TEA] Tea Plantations.</Text>
+			<Text>[ICON_RESOURCE_WINE] 酒、[ICON_RESOURCE_INCENSE] 香料、[ICON_RESOURCE_COCOA] カカオ、[ICON_RESOURCE_TOBACCO] タバコ、[ICON_RESOURCE_OLIVES] オリーブ、[ICON_RESOURCE_COFFEE] コーヒー, [ICON_RESOURCE_TEA] 茶のプランテーションから [ICON_Food] 食料+1と [ICON_Faith] 信仰力+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_HANGING_GARDENS_DESCRIPTION" Language="ja_JP">
-			<Text>Increases growth by 15% in all cities. Must be built next to a river. +2 [ICON_HOUSING] Housing in the city in which this wonder is built and +1 [ICON_HOUSING] Housing in all other cities within 6 tiles.</Text>
+			<Text>全都市の成長率が15%上昇。建設した都市に[ICON_HOUSING]住宅+2、空中庭園から6タイル以内にある都市の[ICON_HOUSING]住宅+1。川の隣にのみ建設可能。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION" Language="ja_JP">
 			<Text>[ICON_Governor] Governors established in a city provide +5% [ICON_Culture] Culture and [ICON_Science] Science for each Promotion they have earned, including their first.</Text>
