@@ -2033,28 +2033,28 @@
 			<Text>すべての陸上戦闘および宗教ユニットは、自国領土内およびその付近の[ICON_Movement]移動力+1</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION" Language="ja_JP">
-			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district. Commercial Hubs no longer receive bonuses from adjacent rivers.</Text>
+			<Text>別の区域に隣接している区域は通常の隣接ボーナスを追加できる。商業ハブは隣接する川から隣接ボーナスを得ることができない。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_DESCRIPTION" Language="ja_JP">
-			<Text>The Religion founded by Poland becomes the majority in an adjacent city that loses a tile to a Polish Culture Bomb.[NEWLINE][NEWLINE]Holy Sites gain standard Faith adjacency bonus from adjacent districts.[NEWLINE][NEWLINE]All Relics provide bonus Faith (+2), Culture (+2) and Gold (+4). Recieve a Relic upon founding and completing a Religion.</Text>
+			<Text>隣接し、かつポーランドの文化爆弾でタイルを失った都市において、ポーランドの創始した宗教が主流になる。[NEWLINE][NEWLINE]聖地は隣接する区域から通常の信仰力ボーナスを得る。[NEWLINE][NEWLINE]すべての遺物が信仰力+2、文化力+2、ゴールド+4のボーナスを得る。宗教を創始すると遺物を獲得する。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION" Language="ja_JP">
-			<Text>A building unique to the Aztecs. Provides an [ICON_Amenities] Amenity, +3 [ICON_CULTURE] Culture, and a [ICON_GreatGeneral] Great General Point.</Text>
+			<Text>アステカ固有の建造物。[ICON_Amenities] 快適性+1、[ICON_CULTURE] 文化力+3、ターンごとに [ICON_GreatGeneral] 大将軍ポイント+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_SPHINX_DESCRIPTION" Language="ja_JP">
-			<Text>Unlocks the Builder ability to construct a Sphinx, unique to Egypt.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith, +1 [ICON_Culture] Culture, and +1 Appeal. +1 [ICON_Faith] Faith and +1 [ICON_CULTURE] Culture if next to a wonder. +1 [ICON_FAITH] Faith per adjacent Holy Site. +1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production if built on Desert</Text>
+			<Text>労働者がエジプト固有の施設であるスフィンクスを建設できるようになる。[NEWLINE][NEWLINE][ICON_Faith] 信仰力+2、[ICON_Culture] 文化+1、アピール+1。遺産が隣接している場合は [ICON_Faith] 信仰力+1、[ICON_CULTURE] 文化力+1。聖地が隣接している場合は [ICON_FAITH] 信仰力+1。砂漠に建設した場合は [ICON_FOOD] 食料+1、[ICON_PRODUCTION] 生産力+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION" Language="ja_JP">
-			<Text>Improvement that unlocks with Masonry and must be built on Desert, Desert Hills, Floodplains, or Plains. +1 [ICON_Faith] Faith. Receives additional yields from adjacent districts. +2 [ICON_Food] Food if adjacent to a city center. For all other districts that award adjacency bonuses: +2 of the appropriate yield if that district is adjacent.</Text>
+			<Text>石工術によって解除される施設。砂漠、砂漠(丘陵)、氾濫原、平野にのみ建設可能。 [ICON_Faith] 信仰力+1。隣接する区域からの産出量が増加する。都心に隣接している場合、[ICON_Food] 食料+2。その他隣接ボーナスが発生する区域が隣接している場合、該当するボーナスが+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_EYE_OF_THE_SAHARA_DESCRIPTION" Language="ja_JP">
-			<Text>Three tile natural wonder. Provides +2 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production, and +2 [ICON_SCIENCE] Science.</Text>
+			<Text>3タイルの自然遺産。[ICON_FOOD] 食料+2、[ICON_PRODUCTION] 生産力+2、[ICON_SCIENCE] 科学力+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_PILGRIMAGE_DESCRIPTION" Language="ja_JP">
-			<Text>+3 [ICON_Faith] Faith for every foreign city following this Religion.</Text>
+			<Text>この宗教を信奉する他文明と都市国家の都市1つにつき [ICON_Faith] 信仰力+3。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION" Language="ja_JP">
-			<Text>Scythian unique Classical Era ranged unit with 4 [ICON_Movement] Movement and a [ICON_Range] Range of 2.</Text>
+			<Text>スキタイ固有の長距離戦闘ユニット。古典時代に生産可能。[ICON_Movement] 移動力4、 [ICON_Range] 射程2。</Text>
 		</Replace>
 		<!-- Last Updates -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION" Language="ja_JP">
