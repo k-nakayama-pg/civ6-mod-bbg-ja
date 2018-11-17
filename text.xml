@@ -2058,42 +2058,42 @@
 		</Replace>
 		<!-- Last Updates -->
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_IMPERIAL_FREE_CITIES_DESCRIPTION" Language="ja_JP">
-			<Text>After unlocking the Guilds civic, each city can build one more district than usual (exceeding the normal limit based on [ICON_Citizen] Population).</Text>
+			<Text>ギルド解禁後、([ICON_Citizen] 人口にもとづく通常の制限を超えて)各都市に1つ多く区域を建設できる。</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY" Language="ja_JP">
 			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub district. Minor [ICON_Production] Production bonus for adjacent resources and district tiles.</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION" Language="ja_JP">
-			<Text>American unique Industrial era unit that replaces Cavalry. [ICON_Culture] Culture is earned from kills on their [ICON_Capital] Capital`s continent. +5 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+			<Text>ルーズベルトを指導者とするアメリカ固有の産業時代のユニット。[ICON_Capital] 首都のある大陸で敵を倒すと [ICON_Culture] 文化力を得る。[ICON_Strength] 丘陵での戦闘力+5。維持コストが比較的低い。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION" Language="ja_JP">
-			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Military Science technology.</Text>
+			<Text>自文明の首都が存在する大陸に配置されているユニットの [ICON_Strength] 戦闘力+5。国立公園が存在する都市タイルのアピール+1。軍事学(技術)を研究することで、固有ユニットであるラフライダーを獲得。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_CLIFFS_DOVER_DESCRIPTION" Language="ja_JP">
-			<Text>Two tile natural wonder. It appears with Cliffs adjacent to water and provides +2 [ICON_FOOD] Food, +3 [ICON_Culture] Culture, and +2 [ICON_Gold] Gold.</Text>
+			<Text>2タイルの自然遺産。水域に隣接する崖がある。[ICON_FOOD] 食料+2、[ICON_Culture] 文化力+3、[ICON_Gold] ゴールド+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_LAKE_RETBA_DESCRIPTION" Language="ja_JP">
-			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_FOOD] Food, +1 [ICON_PRODUCTION] Production, +2 [ICON_CULTURE] Culture, +2 [ICON_GOLD] Gold, and Fresh Water.</Text>
+			<Text>2タイルの自然遺産。湖。真水をもたらす。[ICON_FOOD] 食料+2、[ICON_PRODUCTION] 生産力+1、[ICON_CULTURE] 文化力+2、[ICON_GOLD] ゴールド+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_DEAD_SEA_DESCRIPTION" Language="ja_JP">
-			<Text>Two tile natural wonder. It appears as a Lake and provides +2 [ICON_FOOD] Food, +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture, and Fresh Water. Units heal completely if they heal for one turn adjacent to the Dead Sea.</Text>
+			<Text>2タイル自然遺産の不思議。湖。死海に隣接した場所で回復を行ったユニットは、1ターンで全快する。[ICON_FOOD] 食料+2、[ICON_Faith] 信仰力+2、[ICON_Culture] 文化力+2、真水+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION" Language="ja_JP">
-			<Text>One tile natural wonder. It appears as a Lake and provides +2 [ICON_FOOD] Food, +2 [ICON_Science] Science, +4 [ICON_Faith] Faith, and Fresh Water.</Text>
+			<Text>1タイルの自然遺産。湖。真水をもたらす。[ICON_FOOD] 食料+2、[ICON_Science] 科学力+2、 [ICON_Faith] 信仰力+4。</Text>
 		</Replace>
 		<Replace Tag="LOC_FEATURE_UBSUNUR_HOLLOW_DESCRIPTION" Language="ja_JP">
-			<Text>Four tile natural wonder. It appears as Marsh and provides +2 [ICON_FAITH] Faith, +2 [ICON_FOOD] Food, and +2 [ICON_PRODUCTION] Production.</Text>
+			<Text>4タイルの自然遺産。湿原。[ICON_FAITH] 信仰力+2、[ICON_FOOD] 食料+2、[ICON_PRODUCTION] 生産力+2。</Text>
 		</Replace>
 		<!-- Version 6 -->
 		<Replace Tag="LOC_BUILDING_GOV_TALL_DESCRIPTION" Language="ja_JP">
-			<Text>+1 [ICON_Amenities] Amenity, +3 [ICON_FOOD] Food, and +3 [ICON_Housing] Housing in Cities with [ICON_Governor] Governors[NEWLINE]-2 Loyalty in Cities without [ICON_Governor] Governors.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+			<Text>[ICON_Governor] 総督がいる都市の [ICON_Amenities] 快適性+1、[ICON_FOOD] 食料+3、[ICON_Housing] 住宅+4。[NEWLINE][ICON_Governor] 総督がいない都市の忠誠心-2。[NEWLINE][ICON_Governor] 総督の称号+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_GOV_CONQUEST_DESCRIPTION" Language="ja_JP">
-			<Text>Capturing an enemy City grants 25% bonus [ICON_Production] Production in all Cities for 10 turns.[NEWLINE]Awards +1 [Icon_Governor] Governor Title.</Text>
+			<Text>敵の都市を占領すると、10ターンの間、すべての都市の [ICON_Production] 生産力に20%のボーナスが発生する。[NEWLINE][Icon_Governor] 総督の称号+1。</Text>
 		</Replace>
 		<!-- Version 7 -->
 		<Replace Tag="LOC_FEATURE_GALAPAGOS_DESCRIPTION" Language="ja_JP">
-			<Text>Two tile impassable natural wonder. It appears on coastal terrain and provides +2 [ICON_Science] Science and +1 [ICON_FOOD] Food to adjacent tiles.</Text>
+			<Text>2タイルの自然遺産。隣接するタイルは [ICON_Science] 科学力+2 と [ICON_FOOD] 食料+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION" Language="ja_JP"> 
 			<Text>Chinese unique unit that replaces the Crossbowman. +7 [ICON_Ranged] Ranged Strength when attacking adjacent enemy units.</Text>
