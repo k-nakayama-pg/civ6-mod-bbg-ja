@@ -1973,7 +1973,7 @@
 			<Text>カタパルトの取ってかわるクメール固有の太古の攻囲ユニット。カタパルトより強く、同じターンに移動と攻撃を実行し、支配領域を行使できる。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION" Language="ja_JP">
-			<Text>+2 [ICON_FAITH] Faith to Khmer from incoming and outgoing international trade routes. The sending Civilization also receives +2 [ICON_FAITH] Faith. +3 [ICON_FAITH] Faith and +1 [ICON_AMENITIES] Amenity from entertainment to each city with an Aqueduct. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct.</Text>
+			<Text>他文明や都市国家との交易路1つにつき、交易路の受け手と送り手の文明それぞれに[ICON_FAITH] 信仰力+2をもたらす。用水路のある各都市に[ICON_FAITH] 信仰力+3、娯楽による快適性+1。用水路に隣接している場合、農場から[ICON_FOOD] 食料+2。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION" Language="ja_JP">
 			<Text>神殿に取ってかわるノルウェー固有の建造物。この都市の各資源タイルに[ICON_FAITH]信仰力+1。この都市の各沿岸資源タイルへの[ICON_PRODUCTION]生産+1。[ICON_Faith]信仰力を使って使徒と審問官を購入するのに必要。</Text>
@@ -1995,7 +1995,7 @@
 			<Text>労働者がスキタイの固有の施設であるクルガンを建設できるようになる。[NEWLINE][NEWLINE] [ICON_Faith]信仰力+1 [ICON_Gold]ゴールド+1 隣接する牧草地1つにつき[ICON_Faith]信仰力+1、[ICON_PRODUCTION]生産力+1.</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION" Language="ja_JP">
-			<Text>占星術を研究した後、ターン毎に大きな大預言者ポイント[ICON_GreatProphet]+1. [ICON_Science] Science for each foreign city following Arabia's Religion.</Text>
+			<Text>占星術を研究した後、ターン毎に大きな大預言者ポイント[ICON_GreatProphet]+1. アラビアの宗教を信仰する他文明の都市ごとに科学力[ICON_Science]を得る。</Text>
 		</Replace>
 		<Replace Tag="LOC_BUILDING_TSIKHE_DESCRIPTION" Language="ja_JP">
 			<Text>太古の防壁に取ってかわるグルジア固有の建造物。社会制度「自然保護」に到達すると、[ICON_TOURISM]観光力+3。[ICON_Faith] 信仰力+3。</Text>
@@ -2061,7 +2061,7 @@
 			<Text>ギルド解禁後、([ICON_Citizen] 人口にもとづく通常の制限を超えて)各都市に1つ多く区域を建設できる。</Text>
 		</Replace>
 		<Replace Tag="LOC_DISTRICT_HANSA_DESCRIPTION_ADJACENCY" Language="ja_JP">
-			<Text>Adjacency: Major [ICON_Production] Production bonus if adjacent to a Commercial Hub district. Minor [ICON_Production] Production bonus for adjacent resources and district tiles.</Text>
+			<Text>隣接:商業ハブに隣接していれば大きな[ICON_Production] 生産ボーナスを、その他の区域や資源に隣接している場合は小さな[ICON_Production] 生産ボーナスを得る。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION" Language="ja_JP">
 			<Text>ルーズベルトを指導者とするアメリカ固有の産業時代のユニット。[ICON_Capital] 首都のある大陸で敵を倒すと [ICON_Culture] 文化力を得る。[ICON_Strength] 丘陵での戦闘力+5。維持コストが比較的低い。</Text>
@@ -2096,7 +2096,7 @@
 			<Text>2タイルの自然遺産。隣接するタイルは [ICON_Science] 科学力+2 と [ICON_FOOD] 食料+1。</Text>
 		</Replace>
 		<Replace Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION" Language="ja_JP"> 
-			<Text>Chinese unique unit that replaces the Crossbowman. +7 [ICON_Ranged] Ranged Strength when attacking adjacent enemy units.</Text>
+			<Text>連弩兵を代替する中国固有ユニット。隣接する敵のユニットを攻撃時に[ICON_Ranged] 遠隔戦闘力+7。</Text>
 		</Replace>
 		<Row Tag="LOC_ABILITY_TIGER_ADJACENCY_NAME" Language="ja_JP">
 			<Text>キャノンボール！</Text>
@@ -2120,10 +2120,10 @@
 		</Replace>
 		<Replace Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION" Language="ja_JP">
 			<Text>
-			Unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE]
-			[NEWLINE]+2 [ICON_Faith] Faith. +2 [ICON_Faith] Faith if on a different continent than your [ICON_Capital] Capital.[NEWLINE]
-			[NEWLINE]+2 [ICON_Science] Science if built next to a Campus district. +1 Housing at Civil Service.[NEWLINE]
-			[NEWLINE]+2 Science at The Enlightenment.
+			労働者がスペイン固有の施設である修道院を建設できるようになる。[NEWLINE]
+			[NEWLINE][ICON_Faith] 信仰力+2、自文明の首都とは異なる大陸に建設された場合さらに[ICON_Faith] 信仰力+2。[NEWLINE]
+			[NEWLINE]キャンパスに隣接している場合[ICON_Science] 科学力+2。官吏の技術を獲得後住宅+1。[NEWLINE]
+			[NEWLINE]啓蒙思想を獲得後[ICON_Science] 科学力+2。
 			</Text>
 		</Replace>
 		<Replace Tag="LOC_BELIEF_GODDESS_OF_THE_HUNT_DESCRIPTION" Language="ja_JP">
@@ -2145,13 +2145,13 @@
 			<Text>全都市の成長率が15%上昇。建設した都市に[ICON_HOUSING]住宅+2、空中庭園から6タイル以内にある都市の[ICON_HOUSING]住宅+1。川の隣にのみ建設可能。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION" Language="ja_JP">
-			<Text>[ICON_Governor] Governors established in a city provide +5% [ICON_Culture] Culture and [ICON_Science] Science for each Promotion they have earned, including their first.</Text>
+			<Text>[ICON_Governor] 総督が任命されている都市は、彼らが持つ昇進1つにつき[ICON_Culture] 文化力と[ICON_Science] 科学力にそれぞれ5%のボーナスを得る。この昇進には最初の1つも含む。</Text>
 		</Replace>
 		<Replace Tag="LOC_MOMENT_CATEGORY_CULTURAL_BONUS_GOLDEN_AGE" Language="ja_JP">
-			<Text>Pen, Brush, and Voice Golden Age:[NEWLINE][ICON_CivicBoosted] Inspirations provide an additional 10% of civic costs. Each city receives +2 [ICON_Culture] Culture and +2 [ICON_Gold] Gold for each specialty district </Text>
+			<Text>ペン・筆・声(黄金時代):[NEWLINE][ICON_CivicBoosted] 天啓によるボーナスが10%増加し、各都市は専門区域ごとに[ICON_Culture] 文化力+2と[ICON_Science] 科学力+2を得る。</Text>
 		</Replace>
 		<Replace Tag="LOC_PEDIA_CONCEPTS_PAGE_DEDICATIONS_CHAPTER_CONTENT_PARA_2" Language="ja_JP">
-			<Text>Pen, Brush, and Voice: Gain +1 Era Score each time you trigger an [ICON_CivicBoosted] Inspiration. +1 Era Score for constructing a building with a Great Work Slot. If chosen at the start of a Golden Age, [ICON_CivicBoosted] Inspirations provide an additional 10% of civic costs. Each city receives +2 [ICON_Culture] Culture and +2 [ICON_Gold] Gold for each specialty district.</Text>
+			<Text>ペン・筆・声: 天啓を得るたびに時代スコア+1。 傑作スロットがある建造物を建てるごとに時代スコア+1。黄金時代の公約として選択された場合、[ICON_CivicBoosted] 天啓によるボーナスが10%増加し、各都市は専門区域ごとに[ICON_Culture] 文化力+2と[ICON_Science] 科学力+2を得る。</Text>
 		</Replace>
 		<Replace Tag="LOC_TRAIT_LEADER_SATYAGRAHA_DESCRIPTION" Language="ja_JP">
 			<Text>労働者と開拓者の移動力[ICON_Movement]+1。宗教を創始しており、戦争状態ではない文明インドを含む)と遭遇すると、そのつど[ICON_Faith]信仰力+5。ガンジーを相手に戦う文明は、戦争による疲労が2倍になる。</Text>
